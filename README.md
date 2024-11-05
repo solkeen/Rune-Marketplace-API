@@ -30,7 +30,17 @@ This bot tracks wallet activity such as sol transfer , token transfer and swap a
 
 #### Token Swap
 
-It can detect swap transaction from all Solana Dex
+##### Supported Swap Route
+
+All Solana Dex
+
+- Jupito
+- Raydium
+- Meteora
+- Orca
+- Pumpfun
+- 1DEX
+- ... other 21 dexes
 
 - Swap Token Amount
 - Swap Wallet Address 
@@ -103,20 +113,6 @@ It can detect swap transaction from all Solana Dex
 - Token Info ( Name , Symbol , Market Cap , Current Price )
 - Current Market Cap
 - Current Market Supply
-
-
-##### Supported Swap Route
-
-All Solana Dex
-
-- Jupito
-- Raydium
-- Meteora
-- Orca
-- Pumpfun
-- 0xDex
-- ... other 21 dexes
-
 
 #### Hash Bot Private
 
